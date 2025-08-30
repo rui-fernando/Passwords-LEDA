@@ -1,0 +1,1 @@
+Os dados de entrada ficam nessa pasta.
